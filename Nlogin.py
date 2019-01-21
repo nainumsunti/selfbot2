@@ -35,8 +35,8 @@ Exc = [line]
 lineMID = line.getProfile().mid
 bot1 = line.getProfile().mid
 RfuBot=[lineMID]
-Family=["u0d2e984dbd8f6ffb2b00dd8fa16c695f",lineMID]
-admin=['u0d2e984dbd8f6ffb2b00dd8fa16c695f',lineMID]
+Family=["u77302e41fa71645e4c7544ff7e8b5557",lineMID]
+admin=['u77302e41fa71645e4c7544ff7e8b5557',lineMID]
 RfuFamily = RfuBot + Family
 
 protectname = []
@@ -87,9 +87,9 @@ settings = {
     "changePictureProfile":False,
     "unsendMessage": False,
     "autoJoinTicket": False,
-    "welcome":"สวัสดีคนมาใหม่\n\nตั้งข้อความต้อนรับด้วยคับ\n™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ",
-    "kick":"งิเตะทมอยยย😂\n™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ",
-    "bye":"ไปซ่ะละ ลาก่อยยย\n™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ",
+    "welcome":"สวัสดีคนมาใหม่\n\nตั้งข้อความต้อนรับด้วยคับ\n!! °✰ধণ இ❍७७✰",
+    "kick":"งิเตะทมอยยย😂\n!! °✰ধণ இ❍७७✰",
+    "bye":"ไปซ่ะละ ลาก่อยยย\n!! °✰ধণ இ❍७७✰",
     "Respontag":"แทคแบบนี้ปี้กันเลยดีมั้ย",
     "eror":"คุณใช้คำสั่งผิด สั่งบอทอีกครั้ง!",
     "spam":{},
@@ -99,10 +99,10 @@ settings = {
     "pname": {},
     "pro_name": {},
     "message1":"แอดมารัก หรือ แอดมารัน😊",
-    "message":"บัญชีนี้ถูกป้องกันโดย ™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ ระบบได้บล็อคคุณอัตโนมัติ!",
-    "comment":"""™ℜ.જণধப❂ধ全Đąѓℜ ŊɨɠђŧŚẾL₣ВΌŦ BY:
+    "message":"บัญชีนี้ถูกป้องกันโดย !! °✰ধণ இ❍७७✰ระบบได้บล็อคคุณอัตโนมัติ!",
+    "comment":"""!! °✰ধণ இ❍७७✰BY:
 ╔══════════════┓
-╠       ™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ
+╠       !! °✰ধণ இ❍७७✰
 ╚══════════════┛""",
     "userAgent": [
         "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
@@ -347,7 +347,7 @@ def mentionMembers(to, mid):
 
 def myhelp():
     myHelp = """╔══════════════┓
-╠     ™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ
+╠     !! °✰ধণ இ❍७७✰
 ╚══════════════┛
 ╔══════════════┓
 ╠❋►Me ↔คอนแทค
@@ -362,7 +362,7 @@ def myhelp():
 ╠❋►ทีมบอท
 ╠❋►Creator
 ╠❋►Sp
-™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ »"""
+!! °✰ধণ இ❍७७✰»"""
     return myHelp
 
 def listgrup():
@@ -401,7 +401,7 @@ def listgrup():
 ╠❋►ล้างแบน @
 ╠❋►เตะแบน
 ╠❋►เช็คไอดี
-╰═❋™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ »"""
+╰═❋!! °✰ধণ இ❍७७✰»"""
     return listGrup
 
 def socmedia():
@@ -423,7 +423,7 @@ def socmedia():
 ╠❋►ไอจี 
 ╠❋►เวลา
 ╠❋►ขอหื่น
-╰═❋™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ »"""
+╰═❋!! °✰ধণ இ❍७७✰»"""
     return socMedia
 
 def helpset():
@@ -478,7 +478,7 @@ def helpset():
 ╠❋►ชื่อ;
 ╠❋►ตัส;
 ╠❋►Spam on ↔ off
-╰═❋BY: ™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ"""
+╰═❋BY: !! °✰ধণ இ❍७७✰"""
     return helpSet
 
 def helpsetting():
@@ -514,7 +514,7 @@ def helpsetting():
 ╠❋►กันกลุ่ม ↔ ปิดกันกลุ่ม
 ╠❋►กันเข้า ↔ ปิดกันเข้า
 ╠❋►เปิดหมด ↔ ปิดหมด
-╰══❋BY: ™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ """
+╰══❋BY: !! °✰ধণ இ❍७७✰"""
     return helpSetting
 
 def helptexttospeech():
@@ -544,9 +544,9 @@ def helptexttospeech():
 ╠❋► sr : เซอเบียร์
 ╠❋► th : ไทย
 ╠❋► vi : เวียดนาม
-╰═❋BY: ™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ »
+╰═❋BY: !! °✰ধণ இ❍७७✰»
 
-「วิธีใช้ : พูด พี่บอยคะหนูเงี่ยน」"""
+「วิธีใช้ : พูด พี่คะหนูเงี่ยน」"""
     return helpTextToSpeech
     
 def helplanguange():
@@ -585,7 +585,7 @@ def helplanguange():
 ╠❋► ru : รัสเซีย
 ╠❋► th : ไทย
 ╠❋► zu : ซูลู
-╰═❋BY: ™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ »
+╰═❋BY: !! °✰ধণ இ❍७७✰»
  
 「วิธีใช้ : Tr-th ตามด้วยคำที่จะแปล」"""
     return helpLanguange
@@ -748,7 +748,7 @@ def lineBot(op):
                     timeNow = time.time()
                     runtime = timeNow - botStart
                     runtime = format_timespan(runtime)
-                    line.sendMessage(to, "™ℜ.જণধப❂ধ全Đąѓℜ ŊɨɠђŧŚẾL₣ВΌŦ ÓŅLÍŇỀ\n {}".format(str(runtime)))
+                    line.sendMessage(to, "!! °✰ধণ இ❍७७✰ŚẾL₣ВΌŦ ÓŅLÍŇỀ\n {}".format(str(runtime)))
                 elif text.lower() == 'ข้อมูล':
                     try:
                         arr = []
@@ -758,14 +758,14 @@ def lineBot(op):
                         grouplist = line.getGroupIdsJoined()
                         contactlist = line.getAllContactIds()
                         blockedlist = line.getBlockedContactIds()
-                        ret_ = "╔══[ ❋ ™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ ❋ ]"
+                        ret_ = "╔══[ ❋ !! °✰ধণ இ❍७७✰❋ ]"
                         ret_ += "\n╠❥ ชื่อ ═ {}".format(contact.displayName)
                         ret_ += "\n╠❥ กลุ่ม ═ {}".format(str(len(grouplist)))
                         ret_ += "\n╠❥ เพื่อน ═ {}".format(str(len(contactlist)))
                         ret_ += "\n╠❥ บล็อค ═ {}".format(str(len(blockedlist)))
                         ret_ += "\n╠══[ Status ] \n═ {}".format(contact.statusMessage)
                         ret_ += "\n╠❥ ผู้สร้าง ═ {}".format(creator.displayName)
-                        ret_ += "\n╚══[ ❋ ™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ ❋]"
+                        ret_ += "\n╚══[ ❋ !! °✰ধণ இ❍७७✰❋]"
                         line.sendContact(to, owner)
                         line.sendMessage(to, str(ret_))
                     except Exception as e:
@@ -806,10 +806,10 @@ def lineBot(op):
                 elif "สปีด" == msg.text.lower():
                     line.sendMessage(to,"「ความเร็ว...」\n███▒39%\n██████▒69%\n██████████▒99%\n0.0000000000000000 second")
                     line.sendMessage(to,"0.0000000000000000 second")  
-                    line.sendMessage(to,"™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ(｡◕‿◕｡)")
+                    line.sendMessage(to,"!! °✰ধণ இ❍७७✰(｡◕‿◕｡)")
 #===========
                 elif "เทส" == msg.text.lower():
-                    line.sendMessage(to,"™ℜ.જণধப❂ধ全Đąѓℜ ŊɨɠђŧŚẾL₣ВΌŦLÍŇỀ\n(｡◕‿◕｡)")
+                    line.sendMessage(to,"!! °✰ধণ இ❍७७✰ŚẾL₣ВΌŦLÍŇỀ\n(｡◕‿◕｡)")
                     line.sendMessage(to,"LOADING:▒...0%")  
                     line.sendMessage(to,"█▒... 10.0%")       
                     line.sendMessage(to,"██▒... 20.0%")
@@ -821,7 +821,7 @@ def lineBot(op):
                     line.sendMessage(to,"████████▒... 80.0%")
                     line.sendMessage(to,"█████████▒... 90.0%")
                     line.sendMessage(to,"███████████..100.0%")                    
-                    line.sendMessage(to,"(｡◕‿◕｡)\nบอทยังทำงานคับท่านบอย😁")       
+                    line.sendMessage(to,"(｡◕‿◕｡)\nบอทยังทำงานคับท่าน!! °✰ধণ இ❍७७✰😁")       
 #==============================================================================#
                 elif "n" == msg.text.lower():
                     msg.contentType = 13
@@ -829,27 +829,27 @@ def lineBot(op):
                     line.sendContact(to, "ubfcef56d6b7e10abb299311de6e37556")
                     line.sendContact(to, "u77302e41fa71645e4c7544ff7e8b5557")
                     line.sendContact(to, "uf54f5bf35a1ac9f15f0d82fe5b07b549")
-                    line.sendContact(to, "u0d2e984dbd8f6ffb2b00dd8fa16c695f")
+                    line.sendContact(to, "u77302e41fa71645e4c7544ff7e8b5557")
                     line.sendMessage(to, "=========================")
 #===========
                 elif "เพลงมา" == msg.text.lower():
                     line.sendMessage(to,"บ่แมนหมาวัดแล้วกะบ่ได้ใจนาง\nเลียหีจนครางกะดักใจนางไว้บ่ได้\nเย็ดดีปานได๋เบิร์นดีปานได๋เจ้ากะบ่หัวซา\nก้มเลียหีให่..บ่สงสารลิ้นเจ้าของ\nเย็ดหีจนร้อง..เลียดากอ้ายกะเลียให่\nมักเด้าหลาย..มักเด้าหลายได้ยินบ่\nรอเด้าอยู่เด้อออออ..แคมแดง")             
 #==============================================================================#
                 elif "creator" == msg.text.lower():
-                    line.sendMessage(to,"CREATOR ŚẾL₣ВΌŦ™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ\n(｡◕‿◕｡)")
-                    line.sendContact(to, "u0d2e984dbd8f6ffb2b00dd8fa16c695f")
+                    line.sendMessage(to,"CREATOR ŚẾL₣ВΌŦ!! °✰ধণ இ❍७७✰\n(｡◕‿◕｡)")
+                    line.sendContact(to, "u77302e41fa71645e4c7544ff7e8b5557")
                 elif "ไวรัส" == msg.text.lower():
                     line.sendMessage(to, "หยุด ขอให้อยู่ในความสงบ")
-                    line.sendContact(to, "u0d2e984dbd8f6ffb2b00dd8fa16c695f',")
+                    line.sendContact(to, "u77302e41fa71645e4c7544ff7e8b5557',")
                 elif "ทีมบอท" == msg.text.lower():
                     msg.contentType = 13
-                    line.sendMessage(to, "CREAROT & ADMIN \n™ℜ.જণধப❂ধ全Đąѓℜ ŊɨɠђŧŚẾL₣ВΌŦ (｡◕‿◕｡)")
+                    line.sendMessage(to, "CREAROT & ADMIN \!! °✰ধণ இ❍७७✰ŚẾL₣ВΌŦ (｡◕‿◕｡)")
                     line.sendContact(to, "ubfcef56d6b7e10abb299311de6e37556")
                     line.sendContact(to, "u77302e41fa71645e4c7544ff7e8b5557")
                     line.sendContact(to, "uf54f5bf35a1ac9f15f0d82fe5b07b549")
                     line.sendContact(to, "u0d2e984dbd8f6ffb2b00dd8fa16c695f")
                     line.sendContact(to, "u94fb815b60cdb623d5c08de30105d7fb")
-                    line.sendContact(to, "u32172290a16f477aad3aa3108276f6ae")                        
+                    line.sendContact(to, "u77302e41fa71645e4c7544ff7e8b5557")                        
 #==============================================================================#
                 elif text.lower() == 'เช็ค':
                     try:
@@ -902,7 +902,7 @@ def lineBot(op):
                         else: ret_ += "\n╠❋ ป้องกันสมาชิกปิด ✘ "
                         if RfuProtect["Protectjoin"] == True: ret_ += "\n╠❋ ป้องกันคนนอกเข้ากลุ่ม ✔"
                         else: ret_ += "\n╠❋ ป้องกันคนนนอกเข้ากลุ่ม ✘ "						
-                        ret_ += "\n╚════[ ™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ ]═════┛"
+                        ret_ += "\n╚════[ !! °✰ধণ இ❍७७✰ ]═════┛"
                         line.sendMessage(to, str(ret_))
                     except Exception as e:
                         line.sendMessage(msg.to, str(e))
@@ -978,15 +978,15 @@ def lineBot(op):
                     line.sendContact(to, lineMID)                    
                 elif text.lower() == 'ผส':
                     sendMessageWithMention(to, lineMID)
-                    line.sendContact(to, "u0d2e984dbd8f6ffb2b00dd8fa16c695f")
+                    line.sendContact(to, "u77302e41fa71645e4c7544ff7e8b5557")
                 elif text.lower() == 'mid':
                     line.sendMessage(msg.to,"❥MID❋👇\n\n" +  lineMID)
                 elif text.lower() == 'ชื่อ':
                     me = line.getContact(lineMID)
-                    line.sendMessage(msg.to,"❥ชื่อคุณ❋™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ 👇\n\n" + me.displayName)
+                    line.sendMessage(msg.to,"❥ชื่อคุณ❋!! °✰ধণ இ❍७७✰👇\n\n" + me.displayName)
                 elif text.lower() == 'ตัส':
                     me = line.getContact(lineMID)
-                    line.sendMessage(msg.to,"❥สเตตัส❋™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ 👇\n\n" + me.statusMessage)
+                    line.sendMessage(msg.to,"❥สเตตัส❋!! °✰ধণ இ❍७७✰👇\n\n" + me.statusMessage)
                 elif text.lower() == 'รูป':
                     me = line.getContact(lineMID)
                     line.sendImageWithURL(msg.to,"http://dl.profile.line-cdn.net/" + me.pictureStatus)
@@ -1295,7 +1295,7 @@ def lineBot(op):
                         mc = "╔══[ ลิสการเลียนแบบ ]"
                         for mi_d in settings["mimic"]["target"]:
                             mc += "\n╠ "+line.getContact(mi_d).displayName
-                        line.sendMessage(msg.to,mc + "\n╚══[ ™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ ]")
+                        line.sendMessage(msg.to,mc + "\n╚══[ !! °✰ধণ இ❍७७✰]")
                     
                 elif "nutmic" in msg.text.lower():
                     sep = text.split(" ")
@@ -1390,7 +1390,7 @@ def lineBot(op):
                     ret_ += "\n╠ ❥จำนวนค้างเชิญ❋ : {}".format(gPending)
                     ret_ += "\n╠ ❥ลิ้งของกลุ่ม❋ : {}".format(gQr)
                     ret_ += "\n╠ ❥ลิ้งกลุ่ม❋ : {}".format(gTicket)
-                    ret_ += "\n╚══[ ™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ ]"
+                    ret_ += "\n╚══[ !! °✰ধণ இ❍७७✰]"
                     line.sendMessage(to, str(ret_))
                     line.sendImageWithURL(to, path)
                 elif text.lower() == 'สมาชิก':
@@ -1635,7 +1635,7 @@ def lineBot(op):
                         key = msg.text[-33:]
                         line.findAndAddContactsByMid(key)                   
                         contact = cl.getContact(key)
-                        line.createGroup("™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ ",[key])
+                        line.createGroup("!! °✰ধণ இ❍७७✰",[key])
                         line.sendText(msg,to,"❋ทำการรัน สำเร็จ❋")
                 elif "ไม่รับเชิญ " in msg.text.lower():
                     spl = re.split("ไม่รับเชิญ ",msg.text,flags=re.IGNORECASE)
@@ -3033,7 +3033,7 @@ def lineBot(op):
                     bc = msg.text.replace("ประกาศแชท ","")
                     gid = line.getAllContactIds()
                     for i in gid:
-                        line.sendText(i,"======[ข้อความประกาศแชท]======\n\n"+bc+"\n\nBy: ™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ ")
+                        line.sendText(i,"======[ข้อความประกาศแชท]======\n\n"+bc+"\n\nBy: !! °✰ধণ இ❍७७✰ ")
             
                 elif "ส่งรูปภาพกลุ่ม: " in msg.text:
                     bc = msg.text.replace("ส่งรูปภาพกลุ่ม: ","")
@@ -3078,7 +3078,7 @@ def lineBot(op):
                         if hr == day[i]: hasil = hari[i]
                     for k in range(0, len(bulan)):
                         if bln == str(k): bln = bulan[k-1]
-                    readTime = "❋™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ \n\n🌿🌸🍃🌸🍃🌸🍃🌸🍃🌸🍃🌸🌿" + "\n\n🍁" + hasil + "\n🍁 ที่ " + timeNow.strftime('%d') + " - " + bln + " - " + timeNow.strftime('%Y')  + "\n🍁 เวลา : [ " + timeNow.strftime('%H:%M:%S') + " ]" + "🌿🌸🍃🌸🍃🌸🍃🌸🍃🌸🍃🌸🌿" + "\n\nBY: ❋VҜ ŚẾL₣ВΌŦ"
+                    readTime = "!! °✰ধণ இ❍७७✰\n\n🌿🌸🍃🌸🍃🌸🍃🌸🍃🌸🍃🌸🌿" + "\n\n🍁" + hasil + "\n🍁 ที่ " + timeNow.strftime('%d') + " - " + bln + " - " + timeNow.strftime('%Y')  + "\n🍁 เวลา : [ " + timeNow.strftime('%H:%M:%S') + " ]" + "🌿🌸🍃🌸🍃🌸🍃🌸🍃🌸🍃🌸🌿" + "\n\nBY: ❋VҜ ŚẾL₣ВΌŦ"
                     line.sendMessage(msg.to, readTime)
 
                 elif "screenshotwebsite " in msg.text.lower():
@@ -3313,7 +3313,7 @@ def lineBot(op):
                     gruplist = line.getAllContactIds()
                     kontak = line.getContacts(gruplist)
                     num=1
-                    msgs="™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ "
+                    msgs="!! °✰ধণ இ❍७७✰"
                     for ids in kontak:
                         msgs+="\n[%i] %s" % (num, ids.mid)
                         num=(num+1)
@@ -3375,7 +3375,7 @@ def lineBot(op):
                          line.sendMessage(msg.to, "❋ตั้งข้อความเรืยบร้อย❋")
                      else:
                          settings["message"] = spl
-                         line.sendMessage(msg.to, "™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ \n❋ตั้งข้อความเมื่อมีคนแอด❋\n\n{}".format(str(spl)))
+                         line.sendMessage(msg.to, "!! °✰ধণ இ❍७७✰\n❋ตั้งข้อความเมื่อมีคนแอด❋\n\n{}".format(str(spl)))
                          
                 elif 'คอมเม้น: ' in msg.text:
                   if msg._from in admin:
@@ -3384,7 +3384,7 @@ def lineBot(op):
                          line.sendMessage(msg.to, "❋ตั้งข้อความเรืยบร้อย❋")
                      else:
                          settings["comment"] = spl
-                         line.sendMessage(msg.to, "™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ \n❋ตั้งข้อความคอมเม้นแล้ว ❋\n\n{}".format(str(spl))) 
+                         line.sendMessage(msg.to, "!! °✰ধণ இ❍७७✰\n❋ตั้งข้อความคอมเม้นแล้ว ❋\n\n{}".format(str(spl))) 
                     
                 elif 'ตั้งแทค: ' in msg.text:
                   if msg._from in admin:
@@ -3393,7 +3393,7 @@ def lineBot(op):
                          line.sendMessage(msg.to, "❋ตั้งข้อความเรืยบร้อย❋")
                      else:
                          settings["Respontag"] = spl
-                         line.sendMessage(msg.to, "™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ \n❋ตั้งข้อความตอบแทคแล้ว❋\n\n{}".format(str(spl)))
+                         line.sendMessage(msg.to, "!! °✰ধণ இ❍७७✰\n❋ตั้งข้อความตอบแทคแล้ว❋\n\n{}".format(str(spl)))
                          
                 elif '.ทักเตะ: ' in msg.text:
                   if msg._from in admin:
@@ -3402,7 +3402,7 @@ def lineBot(op):
                          line.sendMessage(msg.to, "ตั้งข้อความคนคนลบสมาชิดเรียบร้อย")
                      else:
                           settings["kick"] = spl
-                          line.sendMessage(msg.to, "™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ \nตั้งค่าข้อความเมื่อมีคนลบสมาชิกแล้ว\nดังนี้👇\n\n👉{}".format(str(spl)))
+                          line.sendMessage(msg.to, "!! °✰ধণ இ❍७७✰\nตั้งค่าข้อความเมื่อมีคนลบสมาชิกแล้ว\nดังนี้👇\n\n👉{}".format(str(spl)))
 
                 elif 'ตั้งออก: ' in msg.text:
                   if msg._from in admin:
@@ -3411,7 +3411,7 @@ def lineBot(op):
                          line.sendMessage(msg.to, "❋ตั้งข้อความคนออกเรียบร้อย❋")
                      else:
                           settings["bye"] = spl
-                          line.sendMessage(msg.to, "™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ \n❋ตั้งค่าข้อความเมื่อมีคนออกจากกลุ่มแล้ว❋\n\n{}".format(str(spl)))
+                          line.sendMessage(msg.to, "!! °✰ধণ இ❍७७✰\n❋ตั้งค่าข้อความเมื่อมีคนออกจากกลุ่มแล้ว❋\n\n{}".format(str(spl)))
 
                 elif 'ตั้งเข้า: ' in msg.text:
                   if msg._from in admin:
@@ -3420,7 +3420,7 @@ def lineBot(op):
                          line.sendMessage(msg.to, "❋ตั้งข้อความคนเข้าเรียบร้อยแล้ว❋")
                      else:
                           settings["welcome"] = spl
-                          line.sendMessage(msg.to, "™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ \n❋ตั้งค่าข้อความเมื่อมีคนเข้ากลุ่มแล้ว❋\n\n{}".format(str(spl)))
+                          line.sendMessage(msg.to, "!! °✰ধণ இ❍७७✰\n❋ตั้งค่าข้อความเมื่อมีคนเข้ากลุ่มแล้ว❋\n\n{}".format(str(spl)))
 
                 elif msg.text.lower().startswith("ภาพ "):
                     sep = msg.text.split(" ")
@@ -3934,7 +3934,7 @@ def lineBot(op):
                         line.sendMessage(to, "❋ส่งรูปภาพลงมา❋")
                         
                 elif text.lower() == "ปิดไฟ":
-                    line.sendContact(to, "u0d2e984dbd8f6ffb2b00dd8fa16c695f',")      
+                    line.sendContact(to, "u77302e41fa71645e4c7544ff7e8b5557',")      
 
                 elif text.lower() == 'ลบรัน':
                     gid = line.getGroupIdsInvited()
@@ -4055,7 +4055,7 @@ def lineBot(op):
                         ret_ += "\n สเตตัส : {}".format(str(contact.statusMessage))
                         ret_ += "\n รูปโปรไฟล : http://dl.profile.line-cdn.net/{}".format(str(contact.pictureStatus))
                         ret_ += "\n  รูปปก : {}".format(str(cover))
-                        ret_ += "\n[  ™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ ]"
+                        ret_ += "\n[  !! °✰ধণ இ❍७७✰]"
                         line.sendMessage(to, str(ret_))
                     except:
                         line.sendMessage(to, "เกิดข้อผิดพลาด")
@@ -4081,7 +4081,7 @@ def lineBot(op):
                     ret_ += "\n╠ STICKER PACKAGES ID : {}".format(pkg_id)
                     ret_ += "\n╠ STICKER VERSION : {}".format(stk_ver)
                     ret_ += "\n╠ STICKER URL : line://shop/detail/{}".format(pkg_id)
-                    ret_ += "\n╚══[ ™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ ]"
+                    ret_ += "\n╚══[ !! °✰ধণ இ❍७७✰]"
                     line.sendMessage(to, str(ret_))
               
 #==============================================================================#
@@ -4413,7 +4413,7 @@ def lineBot(op):
                  return
              dan = line.getContact(op.param2)
              tgb = line.getGroup(op.param1)
-             line.sendMessage(op.param1, str(settings["welcome"]) +"\n™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ ❋สวัสดี {}, Welcome to Group {}\nมาใหม่แก้ผ้าเลย❋".format(str(dan.displayName),str(tgb.name)))
+             line.sendMessage(op.param1, str(settings["welcome"]) +"\n!! °✰ধণ இ❍७७✰❋สวัสดี {}, Welcome to Group {}\nมาใหม่แก้ผ้าเลย❋".format(str(dan.displayName),str(tgb.name)))
              line.sendContact(op.param1, op.param2)
              line.sendMessage(op.param1,"สเตตัส\n{}".format(str(dan.statusMessage)))
              line.sendImageWithURL(op.param1, "http://dl.profile.line-cdn.net{}".format(dan.picturePath))
@@ -4425,7 +4425,7 @@ def lineBot(op):
                  return
              dan = line.getContact(op.param2)
              tgb = line.getGroup(op.param1)
-             line.sendMessage(op.param1,str(settings["kick"]) + "\nเฮ้ย ™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ {}, คือหยังมันโหดแท้วะΣ(っﾟДﾟ；)っ ".format(str(dan.displayName)))
+             line.sendMessage(op.param1,str(settings["kick"]) + "\nเฮ้ย !! °✰ধণ இ❍७७✰{}, คือหยังมันโหดแท้วะΣ(っﾟДﾟ；)っ ".format(str(dan.displayName)))
              line.sendContact(op.param1, op.param2)
              line.sendMessage(op.param1,"สเตตัส\n{}".format(str(dan.statusMessage)))
              line.sendImageWithURL(op.param1, "http://dl.profile.line-cdn.net{}".format(dan.picturePath))
@@ -4436,7 +4436,7 @@ def lineBot(op):
                  return
              dan = line.getContact(op.param2)
              tgb = line.getGroup(op.param1)
-             line.sendMessage(op.param1,str(settings["bye"]) + "\n {}, ไปซะละ {} \n™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ ลาก่อยยย❋".format(str(dan.displayName),str(tgb.name)))
+             line.sendMessage(op.param1,str(settings["bye"]) + "\n {}, ไปซะละ {} \n!! °✰ধণ இ❍७७✰ลาก่อยยย❋".format(str(dan.displayName),str(tgb.name)))
              line.sendContact(op.param1, op.param2)
              line.sendImageWithURL(op.param1, "http://dl.profile.line-cdn.net{}".format(dan.picturePath))
         if op.type == 55:
@@ -4480,7 +4480,7 @@ def lineBot(op):
             except:
                 pass
         if op.type == 55:
-            print (" [ ™ℜ.જণধப❂ধ全Đąѓℜ Ŋɨɠђŧ ]  ")
+            print (" [ !! °✰ধণ இ❍७७✰]  ")
             try:
                 if op.param1 in read['readPoint']:
                     if op.param2 in read['readMember'][op.param1]:

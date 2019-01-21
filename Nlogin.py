@@ -362,7 +362,7 @@ def myhelp():
 ╠❋►ทีมบอท
 ╠❋►Creator
 ╠❋►Sp
-╰═❋VҜ ŚẾL₣ВΌŦ »"""
+╰═❋ചচ①ღัՁω่❂全Đąѓℜ ŊɨɠђŧŚẾL₣ВΌŦ »"""
     return myHelp
 
 def listgrup():
@@ -401,7 +401,7 @@ def listgrup():
 ╠❋►ล้างแบน @
 ╠❋►เตะแบน
 ╠❋►เช็คไอดี
-╰═❋VҜ ŚẾL₣ВΌŦ »"""
+╰═❋ചচ①ღัՁω่❂全Đąѓℜ ŊɨɠђŧŚẾL₣ВΌŦ »"""
     return listGrup
 
 def socmedia():
@@ -423,7 +423,7 @@ def socmedia():
 ╠❋►ไอจี 
 ╠❋►เวลา
 ╠❋►ขอหื่น
-╰═❋VҜ ŚẾL₣ВΌŦ »"""
+╰═❋ചচ①ღัՁω่❂全Đąѓℜ ŊɨɠђŧŚẾL₣ВΌŦ »"""
     return socMedia
 
 def helpset():
@@ -478,7 +478,7 @@ def helpset():
 ╠❋►ชื่อ;
 ╠❋►ตัส;
 ╠❋►Spam on ↔ off
-╰═❋BY: VҜ ŚẾL₣ВΌŦ"""
+╰═❋BY: ചচ①ღัՁω่❂全Đąѓℜ ŊɨɠђŧŚẾL₣ВΌŦ"""
     return helpSet
 
 def helpsetting():
@@ -514,7 +514,7 @@ def helpsetting():
 ╠❋►กันกลุ่ม ↔ ปิดกันกลุ่ม
 ╠❋►กันเข้า ↔ ปิดกันเข้า
 ╠❋►เปิดหมด ↔ ปิดหมด
-╰══❋BY: VҜ ŚẾL₣ВΌŦ """
+╰══❋BY: ചচ①ღัՁω่❂全Đąѓℜ ŊɨɠђŧŚẾL₣ВΌŦ """
     return helpSetting
 
 def helptexttospeech():
@@ -544,7 +544,7 @@ def helptexttospeech():
 ╠❋► sr : เซอเบียร์
 ╠❋► th : ไทย
 ╠❋► vi : เวียดนาม
-╰═❋BY: VҜ ŚẾL₣ВΌŦ »
+╰═❋BY: ചচ①ღัՁω่❂全Đąѓℜ ŊɨɠђŧŚẾL₣ВΌŦ »
 
 「วิธีใช้ : พูด พี่คะหนูเงี่ยน」"""
     return helpTextToSpeech
@@ -585,7 +585,7 @@ def helplanguange():
 ╠❋► ru : รัสเซีย
 ╠❋► th : ไทย
 ╠❋► zu : ซูลู
-╰═❋BY: VҜ ŚẾL₣ВΌŦ »
+╰═❋BY: ചচ①ღัՁω่❂全Đąѓℜ ŊɨɠђŧŚẾL₣ВΌŦ »
  
 「วิธีใช้ : Tr-th ตามด้วยคำที่จะแปล」"""
     return helpLanguange
